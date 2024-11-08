@@ -24,6 +24,10 @@
 - Reading and writing files.
 - Handling user input.
 
+### 6. Classes 
+- Introduction.
+- Dataclasses.
+
 ## Phase 2: Python for Data Science (5 units) 
 
 ### 6. Introduction to NumPy and Arrays  

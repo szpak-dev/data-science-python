@@ -49,7 +49,7 @@ def find_nearest_port_with_airport(lat: float, lon: float) -> Port | None:
     return nearest_port
 
 
-# Example usage
 current_location = (52.2297, 21.0122)  # Warsaw, Poland
 nearest_port = find_nearest_port_with_airport(*current_location)
+
 print(f"Nearest port with an airport: {nearest_port.name}, {nearest_port.country}")
